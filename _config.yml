@@ -1,4 +1,4 @@
-title: sbml.dev
+title: sbmldev
 description: "Site for SBML Project"
 remote_theme: mmistakes/minimal-mistakes
 
@@ -20,8 +20,6 @@ include:
   - _pages
 
 footer:
-  content: "© 2025 sbml.dev"
-atom_feed:
-  hide: true
+  content: "© 2025 sbmldev"
 
 permalink: /:title/
