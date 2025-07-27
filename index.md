@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: "Welcome to SBML"
+title: "Welcome to sbmldev"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   actions:
     - label: "Learn More"
       url: "/about/"
-excerpt: "This is SBML: A research and learning hub for machine learning and secure computing."
+excerpt: "This is sbmldev: A research and learning hub for data science and machine learning."
 ---
