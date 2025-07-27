@@ -1,17 +1,18 @@
 ---
 layout: single
-title: "404"
+title: ""
 permalink: /404.html
+classes: wide-404
 ---
 
-<h1>404</h1>
-<p>They can't be all winners. Try again, or go back home.</p>
+<div class="notfound-container">
+  <h1>404</h1>
+  <p>They can't be all winners. Try again, or go back home.</p>
 
-<!-- Search form -->
-<form action="{{ site.baseurl }}/search/" method="get" style="margin-top: 2em;">
-  <input type="text" name="q" id="search-input" placeholder="Search..." style="padding: 0.5em; width: 250px;" />
-  <button type="submit" style="padding: 0.5em;">Search</button>
-</form>
+  <form action="{{ site.baseurl }}/search/" method="get">
+    <input type="text" name="q" id="search-input" placeholder="Search..." />
+    <button type="submit">Search</button>
+  </form>
 
-<!-- Home button -->
-<a href="{{ site.baseurl }}/" style="display: inline-block; margin-top: 1.5em; padding: 0.5em 1em; background-color: #eee; border-radius: 4px; text-decoration: none;"> Home</a>
+  <a href="{{ site.baseurl }}/" class="home-button"> Home</a>
+</div>
