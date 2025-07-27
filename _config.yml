@@ -22,3 +22,6 @@ minimal_mistakes_skin: dark
 nav:
   - title: "Home"
     url: "/"
+
+atom_feed:
+  hide: true
