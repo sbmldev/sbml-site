@@ -16,7 +16,7 @@ currently being supported with security updates.
 
 If you discover a security vulnerability in this project, **please do not open a public issue**.
 
-Instead, report it privately via email: mjlns.suresh@gmail.com
+Instead, report it privately via email: sbmldev@proton.me
 We aim to acknowledge and respond within **72 hours** and will keep you informed as we work toward a resolution.
 
 We follow responsible disclosure. Once the issue has been resolved, we will publicly disclose the vulnerability (if applicable), crediting the reporter if desired.
