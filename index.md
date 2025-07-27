@@ -2,8 +2,8 @@
 layout: splash
 title: "Welcome to sbmldev"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_color: "#f1f2f3"
+  overlay_filter: "0"
   actions:
     - label: "Learn More"
       url: "/about/"
