@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: page
+layout: default
 permalink: /blog/
 author_profile: true
 ---
