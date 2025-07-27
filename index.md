@@ -4,7 +4,7 @@ title: "Welcome to SBML"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner.png
   actions:
     - label: "Explore"
       url: "/about/"
