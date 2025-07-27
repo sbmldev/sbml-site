@@ -1,4 +1,4 @@
-title: SBML
+title: SBMLDEV
 description: "Site for SBML Project"
 remote_theme: mmistakes/minimal-mistakes
 
@@ -18,5 +18,9 @@ kramdown:
 
 include:
   - _pages
+
+footer:
+  links: false
+  content: "© 2025 SBML"
 
 permalink: /:title/
