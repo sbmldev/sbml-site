@@ -15,7 +15,7 @@ author:
   name: SBML Dev
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 
 # Navigation (optional)
 nav:
