@@ -1,0 +1,23 @@
+title: SBML Site
+description: "A GitHub Pages site using Minimal Mistakes"
+baseurl: ""
+url: "https://sbmldev.github.io"
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+
+# Build settings
+plugins:
+  - jekyll-include-cache
+
+# Author (Optional)
+author:
+  name: SBML Dev
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: default
+
+# Navigation (optional)
+nav:
+  - title: "Home"
+    url: "/"
