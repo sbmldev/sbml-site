@@ -1,5 +1,4 @@
-logo: "/assets/images/logo.png"  # Path to your logo
-title: ""                        # Optional: hide the site title text
+title: ""
 description: "Site for SBML Project"
 remote_theme: mmistakes/minimal-mistakes
 
