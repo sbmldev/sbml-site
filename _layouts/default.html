@@ -9,7 +9,18 @@
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
+  <body 
+  {% if site.data.navigation %}
+  <div style="background: lightyellow; padding: 10px;">
+    <pre>{{ site.data.navigation | jsonify }}</pre>
+  </div>
+{% else %}
+  <div style="background: red; color: white; padding: 10px;">
+    navigation.yml not loaded!
+  </div>
+{% endif %}
+    
+    class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 
