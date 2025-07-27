@@ -7,6 +7,8 @@
   justify-content: center;
   text-align: center;
 
+  animation: fadeIn 0.5s ease-in-out;
+
   .notfound-container {
     max-width: 600px;
     padding: 3em 2em;
@@ -52,9 +54,8 @@
     border-radius: 6px;
   }
 
-  .llama-img {
-    margin-top: 2em;
-    max-width: 80%;
-    height: auto;
-  }
+// Animation keyframes (can be at the bottom of the file)
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
