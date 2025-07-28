@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: sbmldev # the website title (if blank, full name will be used instead)
+title: sbmldev # the website title (if blank, full name will be used instead)# added comment to trigger build
 first_name: Suresh
 #middle_name: R.
 last_name: Balasubramanian
