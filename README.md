@@ -4,5 +4,5 @@ This is the source repository for [sbml.dev](https://sbml.dev) — a personal si
 The site is built using [al-folio](https://github.com/alshedivat/al-folio).
 
 ## License
-Content is © 2025 [sbmldev](https://sbml.dev).  
+Content is © 2025 sbmldev. 
 Code and theme assets are available under the [MIT License](LICENSE), unless otherwise stated.
