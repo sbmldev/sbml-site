@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# **Suresh** Balasubramanian
-
 Hi, I’m a data science/machine learning student. Prior to this, I worked in banking and auditing - it’s also where my first degree was. I made the switch because I found AI and machine learning too fascinating to ignore, and I wanted to work on things that spark genuine curiosity.
 
 I’m especially drawn to the kind of tech that feels close to building - web development, cloud tools, and of course, anything that lets me experiment. This site is part of that: a space to keep track of what I’m learning, try things out, and occasionally share things I wish someone had told me earlier.
