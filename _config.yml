@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: **Suresh** Balasubramanian # the website title (if blank, full name will be used instead)
+first_name: Suresh
+#middle_name: R.
+last_name: Balasubramanian
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: devlog(t) # blog_name will be displayed in your blog page
+blog_description: dev logs, ml notes, and the occasional tangent. I write to make sense of things - and to leave a trail I can come back to.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
