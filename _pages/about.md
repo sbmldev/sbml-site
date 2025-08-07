@@ -27,7 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m a data science/machine learning student. Prior to this, I worked in banking and auditing - it’s also where my first degree was. I made the switch because I found AI and machine learning too fascinating to ignore, and I wanted to work on things that spark genuine curiosity.
+Hi, I'm Suresh Balasubramanian. I'm an undergrad at IIT Madras, currently pursuing a degree in Data Science.
 
-I’m especially drawn to the kind of tech that feels close to building - web development, cloud tools, and of course, anything that lets me experiment. This site is part of that: a space to keep track of what I’m learning, try things out, and occasionally share things I wish someone had told me earlier.
+Before stepping into the world of machine learning, I was in the audit and banking field. Over time, I felt the need for a change - something that involved more learning, creativity, and challenge. AI checked all those boxes, and I’ve been drawn to it ever since.
 
+I'm currently exploring the tools, technologies, and research directions that make up the world of Machine Learning and MLOps. Along the way, I’ve also been learning full-stack development and cloud computing - skills I believe are essential for building and deploying real-world AI systems.
+
+While I’m still building my foundation, what fascinates me most is the ability to find patterns in data and use them to make meaningful decisions - a direction I hope to explore further through research and its real-world applications.
+
+This site is where I share what I’m learning - the things I wish someone had told me, the stuff I figured out the hard way, my projects, and my thoughts on topics in this space.
+
+Thank you for stopping by.
