@@ -1,0 +1,61 @@
+/* =======================
+   Mona Sans
+   ======================= */
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('{{ "/assets/fonts/mona-sans/MonaSans-Light.woff2" | relative_url }}') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('{{ "/assets/fonts/mona-sans/MonaSans-Regular.woff2" | relative_url }}') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('{{ "/assets/fonts/mona-sans/MonaSans-Italic.woff2" | relative_url }}') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('{{ "/assets/fonts/mona-sans/MonaSans-Medium.woff2" | relative_url }}') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('{{ "/assets/fonts/mona-sans/MonaSans-Bold.woff2" | relative_url }}') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* =======================
+   Inconsolata
+   ======================= */
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('{{ "/assets/fonts/inconsolata/Inconsolata-Regular.woff2" | relative_url }}') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('{{ "/assets/fonts/inconsolata/Inconsolata-Bold.woff2" | relative_url }}') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
