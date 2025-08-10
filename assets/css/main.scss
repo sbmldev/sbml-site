@@ -24,3 +24,10 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss",
   "fonts"
 ;
+body {
+  font-family: 'Mona Sans', sans-serif !important;
+}
+
+code, pre {
+  font-family: 'Inconsolata', monospace !important;
+}
