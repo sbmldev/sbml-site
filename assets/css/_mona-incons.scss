@@ -1,0 +1,78 @@
+/* === _mona-incons.scss === */
+
+/* MONA SANS */
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../fonts/mona/Mona-Sans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../fonts/mona/Mona-Sans-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../fonts/mona/Mona-Sans-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../fonts/mona/Mona-Sans-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mona Sans';
+  src: url('../fonts/mona/Mona-Sans-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* INCONSOLATA */
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('../fonts/inconsolata/Inconsolata-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('../fonts/inconsolata/Inconsolata-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* === Typography Defaults === */
+
+/* Base body text */
+body {
+  font-family: 'Mona Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* Headings & navigation menus */
+h1, h2, h3, h4, h5, h6,
+.navbar, .nav, .menu, .site-title {
+  font-family: 'Mona Sans', sans-serif;
+  font-weight: 700; /* Bold */
+}
+
+/* Blockquotes & decorative italics */
+blockquote, .quote, .citation {
+  font-style: italic;
+  font-family: 'Mona Sans', sans-serif;
+}
+
+/* Code & preformatted text */
+code, pre, kbd, samp {
+  font-family: 'Inconsolata', monospace;
+}
+
+/* Optional: lighter paragraphs */
+.light-text {
+  font-weight: 300;
+}
