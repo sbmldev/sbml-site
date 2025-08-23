@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="sbml.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="sbml.dev/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T04:04:08+00:00</updated><id>sbml.dev/feed.xml</id><title type="html">blank</title><subtitle>posts related to my studies, research, and technical interests
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="sbml.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="sbml.dev/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T07:49:06+00:00</updated><id>sbml.dev/feed.xml</id><title type="html">blank</title><subtitle>posts related to my studies, research, and technical interests
 </subtitle><entry><title type="html">my first post</title><link href="sbml.dev/blog/2025/my-first-post/" rel="alternate" type="text/html" title="my first post" /><published>2025-08-02T00:00:00+00:00</published><updated>2025-08-02T00:00:00+00:00</updated><id>sbml.dev/blog/2025/my-first-post</id><content type="html" xml:base="sbml.dev/blog/2025/my-first-post/"><![CDATA[<p>After several hours (days?) of wrestling with YAML, Actions, and profile pictures, we are finally back to a clean slate, i.e., back to where we started.</p>
 
 <p>But fret not, sometimes, wiping everything and starting over is the step in the right direction.</p>
@@ -206,7 +206,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="f410ca70-bd8b-4c10-80ea-17958dd24573" data-name="log">
+<ul id="log" class="tab" data-tab="aedeb272-8ada-424d-b4fb-d018ac867a5f" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -221,7 +221,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="f410ca70-bd8b-4c10-80ea-17958dd24573" data-name="log">
+<ul class="tab-content" id="aedeb272-8ada-424d-b4fb-d018ac867a5f" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -245,7 +245,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="2b3f554a-465b-4e0d-951e-7168ccd28563" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="fbcd1334-f8b9-4e2c-b11a-2caac829826e" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -256,7 +256,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="2b3f554a-465b-4e0d-951e-7168ccd28563" data-name="data-struct">
+<ul class="tab-content" id="fbcd1334-f8b9-4e2c-b11a-2caac829826e" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -278,7 +278,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="a3d6cc10-c3a9-4189-abe6-752fb973d429" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="22bb2290-5236-4e30-bfdf-d312edd2383d" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -293,7 +293,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="a3d6cc10-c3a9-4189-abe6-752fb973d429" data-name="something-else">
+<ul class="tab-content" id="22bb2290-5236-4e30-bfdf-d312edd2383d" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
