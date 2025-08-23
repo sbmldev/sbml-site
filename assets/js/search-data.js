@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-my-first-post",
+        },{id: "post-topics-in-probability-and-statistics-for-machine-learning",
+        
+          title: "topics in probability and statistics for machine learning",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stats-for-ml/";
+          
+        },
+      },{id: "post-my-first-post",
         
           title: "my first post",
         
