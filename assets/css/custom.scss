@@ -1,7 +1,16 @@
+// Reset the default bold on home page title + navbar brand
+.title.font-weight-bold,
 .navbar-brand.title {
-  font-weight: 400 !important; // reset the whole brand text to normal
+  font-weight: 400 !important;
 }
 
+// Force styles for name parts
+.title .firstname,
+.navbar-brand.title .firstname {
+  font-weight: 400 !important; // normal
+}
+
+.title .lastname,
 .navbar-brand.title .lastname {
-  font-weight: 700 !important; // bump last name back to bold
+  font-weight: 700 !important; // bold
 }
