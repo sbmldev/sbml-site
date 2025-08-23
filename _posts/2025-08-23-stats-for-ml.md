@@ -6,10 +6,10 @@ categories: [probability, statistics]
 tags: [random variables]
 ---
 
-# random variables: discrete and continuous
+## random variables: discrete and continuous
 In probability and statistics, a **random variable** is a variable whose possible values are outcomes of a random phenomenon. Understanding random variables is essential for many machine learning concepts, from probability distributions to statistical modeling.
 
-## discrete random variable
+### discrete random variable
 A **discrete random variable** can take on a countable number of distinct values, often integers. For example:
 - the number of heads when flipping 3 coins.
 - the number of customers arriving at a store in an hour.
@@ -20,11 +20,16 @@ A **discrete random variable** can take on a countable number of distinct values
 
 **example:**
 Flipping a fair coin twice, let \(X\) be the number of heads:
-|   X  |  0  |  1  |  2  |
-|------|-----|-----|-----|
-| P(X) | 1/4 | 1/2 | 1/4 |
+$$
+f_X(x) = 
+\begin{cases} 
+1/4 & x = 0 \\
+1/2 & x = 1 \\
+1/4 & x = 2
+\end{cases}
+$$
 
-## continuous random variable
+### continuous random variable
 A **continuous random variable** can take on any value within a range (interval) of real numbers. For example:
 - height of students in a class.
 - time taken to run a mile.
