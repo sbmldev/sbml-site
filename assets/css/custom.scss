@@ -1,7 +1,7 @@
-.navbar-brand.title .firstname {
-  font-weight: 400; // normal/light
+.navbar-brand.title {
+  font-weight: 400 !important; // reset the whole brand text to normal
 }
 
 .navbar-brand.title .lastname {
-  font-weight: 700; // bold
+  font-weight: 700 !important; // bump last name back to bold
 }
