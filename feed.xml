@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="sbml.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="sbml.dev/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T13:15:57+00:00</updated><id>sbml.dev/feed.xml</id><title type="html">blank</title><subtitle>posts related to my studies, research, and technical interests
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="sbml.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="sbml.dev/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T13:16:49+00:00</updated><id>sbml.dev/feed.xml</id><title type="html">blank</title><subtitle>posts related to my studies, research, and technical interests
 </subtitle><entry><title type="html">my first post</title><link href="sbml.dev/blog/2025/my-first-post/" rel="alternate" type="text/html" title="my first post" /><published>2025-08-02T00:00:00+00:00</published><updated>2025-08-02T00:00:00+00:00</updated><id>sbml.dev/blog/2025/my-first-post</id><content type="html" xml:base="sbml.dev/blog/2025/my-first-post/"><![CDATA[<p>After several hours (days?) of wrestling with YAML, Actions, and profile pictures, we are finally back to a clean slate, i.e., back to where we started.</p>
 
 <p>But fret not, sometimes, wiping everything and starting over is the step in the right direction.</p>
@@ -206,7 +206,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="779c4a32-3740-489b-b8b5-3c1d881cb026" data-name="log">
+<ul id="log" class="tab" data-tab="5a8fb2d9-689b-4462-ba7d-2b5a2b74b2d8" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -221,7 +221,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="779c4a32-3740-489b-b8b5-3c1d881cb026" data-name="log">
+<ul class="tab-content" id="5a8fb2d9-689b-4462-ba7d-2b5a2b74b2d8" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -245,7 +245,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="3028606f-f121-4762-814b-94c900af6299" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="7dd76d6f-b1e5-42e3-8627-cdd4561eccd5" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -256,7 +256,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="3028606f-f121-4762-814b-94c900af6299" data-name="data-struct">
+<ul class="tab-content" id="7dd76d6f-b1e5-42e3-8627-cdd4561eccd5" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -278,7 +278,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="31864147-6a57-4509-88ad-4f1646f2835e" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="c5773ced-2dff-44ba-97cd-d08add7eb091" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -293,7 +293,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="31864147-6a57-4509-88ad-4f1646f2835e" data-name="something-else">
+<ul class="tab-content" id="c5773ced-2dff-44ba-97cd-d08add7eb091" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
@@ -319,77 +319,7 @@ Content 2
 
 </li>
   
-</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="sbml.dev/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms" /><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>sbml.dev/blog/2024/typograms</id><content type="html" xml:base="sbml.dev/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">+----+
-|    |---&gt; My first diagram!
-+----+</span>
-<span class="p">```</span>
-</code></pre></div></div>
-
-<p>Which generates:</p>
-
-<pre><code class="language-typograms">+----+
-|    |---&gt; My first diagram!
-+----+
-</code></pre>
-
-<p>Another example:</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.</span>
-<span class="p">```</span>
-</code></pre></div></div>
-
-<p>which generates:</p>
-
-<pre><code class="language-typograms">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-</code></pre>
-
-<p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="diagrams" /><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[<h3>External Posts on Your al-folio Blog</h3>
+</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="sbml.dev/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[<h3>External Posts on Your al-folio Blog</h3>
 <p>If you prefer publishing blog posts on medium.com or other external sources, starting version v0.5.0, <a href="https://github.com/alshedivat/al-folio">al-folio</a> lets you to display your external posts in the blog feed of your website! 🎉🎉</p>
 <p>Configuring external sources of super simple. After upgrading to v0.5.0, just add the following section to your _config.yml:</p>
 <pre>external_sources:<br />  - name: medium.com  # name of the source (arbitrary string)<br />    rss_url: <a href="https://medium.com/@al-folio/feed">https://medium.com/@&lt;your-medium-username&gt;/feed</a></pre>
