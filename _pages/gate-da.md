@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: textbook
 title: GATE DA
 permalink: /gate-da/
 nav: true
