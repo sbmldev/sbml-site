@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap");
+
+/* Light mode */
+:root {
+  --global-bg-color: #fbfbfd;
+  --global-text-color: #1b1f2a;
+  --global-text-color-light: #5a6275;
+  --global-theme-color: #3b4cca;
+  --global-hover-color: #3b4cca;
+  --global-card-bg-color: #ffffff;
+  --global-code-bg-color: rgba(59, 76, 202, 0.06);
+  --global-divider-color: rgba(27, 31, 42, 0.12);
+  --global-footer-bg-color: #0f1420;
+  --global-footer-text-color: #9aa3b5;
+  --global-footer-link-color: #ffffff;
+}
+
+/* Dark mode */
+html[data-theme="dark"] {
+  --global-bg-color: #0f1420;
+  --global-text-color: #e6e9f0;
+  --global-text-color-light: #9aa3b5;
+  --global-theme-color: #4cc9f0;
+  --global-hover-color: #4cc9f0;
+  --global-card-bg-color: #171d2d;
+  --global-code-bg-color: #171d2d;
+  --global-divider-color: #2a3247;
+  --global-footer-bg-color: #171d2d;
+  --global-footer-text-color: #9aa3b5;
+  --global-footer-link-color: #e6e9f0;
+}
+
+/* Fonts */
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-weight: 400;
+}
+
+pre,
+code,
+kbd,
+samp {
+  font-family: "Inconsolata", Consolas, Menlo, monospace !important;
+  font-size: 1.05em;
+}
