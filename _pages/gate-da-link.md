@@ -2,7 +2,7 @@
 layout: null
 title: GATE DA
 permalink: /gate-da-link/
-nav: true
+nav: false
 nav_order: 5
 external_url: https://gate-da.sbml.dev/
 ---
